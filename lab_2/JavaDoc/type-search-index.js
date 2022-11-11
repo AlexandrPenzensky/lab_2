@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"JavaCalculate.CharType"},{"p":"org.example","l":"JavaCalculate.Element"},{"p":"org.example","l":"JavaCalculate.ElementBuffer"},{"p":"org.example","l":"JavaCalculate"},{"p":"org.example","l":"Main"}];updateSearchResults();
